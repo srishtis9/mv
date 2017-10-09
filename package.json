@@ -1,0 +1,22 @@
+{
+  "name": "vmc_csp",
+  "version": "1.0.0",
+  "description": "vmc_csp tests",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp-protractor": "^4.1.0",
+    "jasmine-allure-reporter": "^1.0.1",
+    "protractor-jasmine2-screenshot-reporter": "^0.4.0"
+  }
+}
